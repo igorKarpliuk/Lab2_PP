@@ -8,6 +8,6 @@ namespace BusinessCard
 {
     public class BusinessCard
     {
-        public string address { get; set; }
+        public string address { get; set; } 
     }
 }
