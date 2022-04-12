@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse.csproj", "{B1B2C9DC-BA9E-4D87-9DB4-0E831EC503CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "..\Card\CreditCard.csproj", "{D579BF56-7942-4434-991A-BC260962C68D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B1B2C9DC-BA9E-4D87-9DB4-0E831EC503CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B2C9DC-BA9E-4D87-9DB4-0E831EC503CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B2C9DC-BA9E-4D87-9DB4-0E831EC503CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D579BF56-7942-4434-991A-BC260962C68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D579BF56-7942-4434-991A-BC260962C68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D579BF56-7942-4434-991A-BC260962C68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D579BF56-7942-4434-991A-BC260962C68D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
